@@ -1,4 +1,0 @@
-branches
-
-las ramas de git, son apuntadores que creamos a partir de un commit en comun
-generalmente se deben crear a partir de la rama master, aunque podemos crearlas  partir de ramas secundarias
