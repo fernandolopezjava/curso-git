@@ -9,3 +9,6 @@ area de control de cambios, donde se deben agregar los archivos y carpetas a los
 local repository:
 area de validacion de cambios, donde se registran las modificaciones realizadas dentro de nuestro proyecto
 se realizar una captura al codigo que se le esta haciendo seguimiento
+
+remote repository:
+servidor donde cargaremos nuestros commit para tener una copia de los cambios realizados
