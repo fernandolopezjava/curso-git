@@ -1,5 +1,4 @@
-git merge 
-rama combina los cambios de la rama actual y la rama especificada en un nuevo commit
+branch merge rama combina los cambios de la rama actual y la rama especificada en un nuevo commit
   en caso de haber editado archivos diferentes, no se presenta conflicto
   y el commit se emitira sin problemas
   en caso de haber editado el mismo archivo en las mismas lineas de codigo
