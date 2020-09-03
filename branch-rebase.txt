@@ -1,0 +1,4 @@
+git rebase rama
+integra los cambios de la rama mencionada con un nuevo historial de commits
+fusionando limpiamente los commit en una sola linea que corresponde a ambas
+ramas
